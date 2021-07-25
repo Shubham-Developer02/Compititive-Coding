@@ -1,0 +1,6 @@
+String Matching with Trie .
+Rabin - Karp Algorithm
+Knuth - Moris ALgorithm ( KMP )
+Z - Function
+Manachar's Algorithm
+ 
